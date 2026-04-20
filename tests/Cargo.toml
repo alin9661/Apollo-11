@@ -1,6 +1,0 @@
-[workspace]
-members = ["agc-math"]
-resolver = "2"
-
-[workspace.dependencies]
-proptest = "1"
